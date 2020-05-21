@@ -1,0 +1,2 @@
+rootProject.name='consultacep'
+include ':app'
